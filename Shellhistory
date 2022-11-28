@@ -1,0 +1,20 @@
+sleep 2&
+jobs
+sleep 20&
+jobs
+ls | wc
+ls | wc | wc
+ls | wc | wc -l
+quit
+ss
+w
+firefox&
+clear
+ls -al | wc &
+quit
+cd lol
+cd lam/
+ls
+cd ../lam
+cd ..
+quit
